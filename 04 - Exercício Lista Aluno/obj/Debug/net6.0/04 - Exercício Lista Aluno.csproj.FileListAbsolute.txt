@@ -1,0 +1,15 @@
+C:\Users\2022102020014\Desktop\L. Programação (Elias)\3bim\04 - Exercício Lista Aluno\04 - Exercício Lista Aluno\bin\Debug\net6.0\04 - Exercício Lista Aluno.exe
+C:\Users\2022102020014\Desktop\L. Programação (Elias)\3bim\04 - Exercício Lista Aluno\04 - Exercício Lista Aluno\bin\Debug\net6.0\04 - Exercício Lista Aluno.deps.json
+C:\Users\2022102020014\Desktop\L. Programação (Elias)\3bim\04 - Exercício Lista Aluno\04 - Exercício Lista Aluno\bin\Debug\net6.0\04 - Exercício Lista Aluno.runtimeconfig.json
+C:\Users\2022102020014\Desktop\L. Programação (Elias)\3bim\04 - Exercício Lista Aluno\04 - Exercício Lista Aluno\bin\Debug\net6.0\04 - Exercício Lista Aluno.dll
+C:\Users\2022102020014\Desktop\L. Programação (Elias)\3bim\04 - Exercício Lista Aluno\04 - Exercício Lista Aluno\bin\Debug\net6.0\04 - Exercício Lista Aluno.pdb
+C:\Users\2022102020014\Desktop\L. Programação (Elias)\3bim\04 - Exercício Lista Aluno\04 - Exercício Lista Aluno\obj\Debug\net6.0\04 - Exercício Lista Aluno.csproj.AssemblyReference.cache
+C:\Users\2022102020014\Desktop\L. Programação (Elias)\3bim\04 - Exercício Lista Aluno\04 - Exercício Lista Aluno\obj\Debug\net6.0\04 - Exercício Lista Aluno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2022102020014\Desktop\L. Programação (Elias)\3bim\04 - Exercício Lista Aluno\04 - Exercício Lista Aluno\obj\Debug\net6.0\04 - Exercício Lista Aluno.AssemblyInfoInputs.cache
+C:\Users\2022102020014\Desktop\L. Programação (Elias)\3bim\04 - Exercício Lista Aluno\04 - Exercício Lista Aluno\obj\Debug\net6.0\04 - Exercício Lista Aluno.AssemblyInfo.cs
+C:\Users\2022102020014\Desktop\L. Programação (Elias)\3bim\04 - Exercício Lista Aluno\04 - Exercício Lista Aluno\obj\Debug\net6.0\04 - Exercício Lista Aluno.csproj.CoreCompileInputs.cache
+C:\Users\2022102020014\Desktop\L. Programação (Elias)\3bim\04 - Exercício Lista Aluno\04 - Exercício Lista Aluno\obj\Debug\net6.0\04 - Exercício Lista Aluno.dll
+C:\Users\2022102020014\Desktop\L. Programação (Elias)\3bim\04 - Exercício Lista Aluno\04 - Exercício Lista Aluno\obj\Debug\net6.0\refint\04 - Exercício Lista Aluno.dll
+C:\Users\2022102020014\Desktop\L. Programação (Elias)\3bim\04 - Exercício Lista Aluno\04 - Exercício Lista Aluno\obj\Debug\net6.0\04 - Exercício Lista Aluno.pdb
+C:\Users\2022102020014\Desktop\L. Programação (Elias)\3bim\04 - Exercício Lista Aluno\04 - Exercício Lista Aluno\obj\Debug\net6.0\04 - Exercício Lista Aluno.genruntimeconfig.cache
+C:\Users\2022102020014\Desktop\L. Programação (Elias)\3bim\04 - Exercício Lista Aluno\04 - Exercício Lista Aluno\obj\Debug\net6.0\ref\04 - Exercício Lista Aluno.dll
